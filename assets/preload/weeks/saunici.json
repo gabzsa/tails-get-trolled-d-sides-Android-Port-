@@ -1,0 +1,26 @@
+{
+	"storyName": "sonic get trolled lol",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"weekBefore": "tailsweek",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"No Cap",
+			"sonic",
+			[
+				220,
+				20,
+				255
+			]
+		]
+	],
+	"weekName": "Sonic Week"
+}
